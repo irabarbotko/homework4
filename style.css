@@ -60,6 +60,7 @@ body {
   .wrapper{
     width: 1320px;
     text-align: center;
+    margin: 0 auto;
   
   }
 
